@@ -215,6 +215,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to join Skribbl.io Game"
                 }],
          "type":"tilelayer",
          "visible":true,
