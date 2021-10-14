@@ -212,12 +212,12 @@
                  "value":"https:\/\/skribbl.io\/?MVI3hrT9PNhk"
                 }, 
                 {
-                 "name":"openTabTrigger",
+                 "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openTabTriggerMessage",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Press SPACE to open Skribbl.io Game in new tab"
                 }],
