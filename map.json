@@ -215,6 +215,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\n  \"startWithAudioMuted\": true\n}"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Meeting3"
@@ -238,6 +243,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\n  \"startWithAudioMuted\": true\n}"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Meeting2"
@@ -260,6 +270,11 @@
          "name":"meeting #1",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{\n  \"startWithAudioMuted\": true\n}"
+                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
