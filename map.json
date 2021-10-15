@@ -147,7 +147,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"If you see white page - try again or press SPACE to open link"
+                 "value":"Press SPACE to open MagicPianoAR YouTube link"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -203,7 +203,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"If you see white page - try again or press SPACE to open link"
+                 "value":"Press SPACE to open Beatsy YouTube link"
                 }],
          "type":"tilelayer",
          "visible":true,
