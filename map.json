@@ -112,16 +112,6 @@
                  "value":"https:\/\/www.youtube.com\/embed\/7YxNDwm3NBM"
                 }, 
                 {
-                 "name":"openTabTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"openTabTriggerMessage",
-                 "type":"string",
-                 "value":"If you see white page - try again or press SPACE to open link"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/7YxNDwm3NBM"
@@ -130,6 +120,16 @@
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"If you see white page - try again or press SPACE to open link"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -150,16 +150,6 @@
                  "value":"https:\/\/www.youtube.com\/embed\/6wOBJcg-3c8"
                 }, 
                 {
-                 "name":"openTabTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"openTabTriggerMessage",
-                 "type":"string",
-                 "value":"If you see white page - try again or press SPACE to open link"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/6wOBJcg-3c8"
@@ -168,6 +158,16 @@
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"If you see white page - try again or press SPACE to open link"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -242,12 +242,12 @@
                  "value":"https:\/\/skribbl.io\/?MVI3hrT9PNhk"
                 }, 
                 {
-                 "name":"openTabTrigger",
+                 "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openTabTriggerMessage",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Press SPACE to open Skribbl.io Game in new tab"
                 }],
