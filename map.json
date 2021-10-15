@@ -107,6 +107,16 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"openTabTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openTabTriggerMessage",
+                 "type":"string",
+                 "value":"If you see white page - try again or press SPACE to open link"
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/7YxNDwm3NBM"
@@ -129,6 +139,16 @@
          "name":"Beatsywebsite",
          "opacity":1,
          "properties":[
+                {
+                 "name":"openTabTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openTabTriggerMessage",
+                 "type":"string",
+                 "value":"If you see white page - try again or press SPACE to open link"
+                }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
