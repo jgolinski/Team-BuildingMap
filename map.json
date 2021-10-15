@@ -107,6 +107,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"openTab",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/embed\/7YxNDwm3NBM"
+                }, 
+                {
                  "name":"openTabTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -139,6 +144,11 @@
          "name":"Beatsywebsite",
          "opacity":1,
          "properties":[
+                {
+                 "name":"openTab",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/embed\/6wOBJcg-3c8"
+                }, 
                 {
                  "name":"openTabTrigger",
                  "type":"string",
