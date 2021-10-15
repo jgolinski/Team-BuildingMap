@@ -109,7 +109,7 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/7YxNDwm3NBM"
+                 "value":"https:\/\/bit.ly\/3FLZaA2"
                 }, 
                 {
                  "name":"openWebsite",
@@ -144,6 +144,11 @@
          "name":"Beatsywebsite",
          "opacity":1,
          "properties":[
+                {
+                 "name":"openTab",
+                 "type":"string",
+                 "value":"https:\/\/bit.ly\/2YRuRqu"
+                }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
